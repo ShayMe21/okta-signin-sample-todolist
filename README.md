@@ -14,9 +14,9 @@ The application features:
 
 ### To run this locally:
 1. Clone the repository
-2. Run `npm install` on the root project directory and `/okta-hosted-login`
+2. Run `npm install` on the root project directory as well as in `/okta-hosted-login` and `/samples-nodejs-express-4` directories.
 3. Run `npm run resource-server` from the root directory to start the resource server on port 8000.
-4. Run `npm start` on the `/okta-hosted-login` to start the React application.
+4. Run `npm start` on the `/okta-hosted-login` directory to start the React application.
 5. Visit `http://localhost:8080` on your browser to interact with the App.
 6. When asked to sign use the sample credentials below.
 ```
